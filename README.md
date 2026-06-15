@@ -1,8 +1,29 @@
-# Movie Showcase App
+<div align="center">
+
+# Movie Mania
+
+Exploring Cinema Through Data and Design.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-Powered-61DAFB?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TMDB-Data%20Source-success" />
+<img src="https://img.shields.io/badge/Axios-API%20Integration-5A29E4" />
+<img src="https://img.shields.io/badge/Responsive-Design-orange" />
+
+</div>
+
+---
 
 ## Overview
 
-The **Movie Showcase App** is a React-based application designed to offer a comprehensive movie browsing experience. Users can explore popular and trending movies, view detailed information about each film, and learn about the actors involved. The app is inspired by platforms like IMDb and features a user-friendly interface for discovering and enjoying movies.
+Movie Mania is a React-powered movie exploration platform that aggregates and presents film data from TMDB through a responsive, API-driven interface. The application supports content discovery through trending collections, advanced search functionality, and detailed movie pages containing metadata, ratings, genres, release information, and cast details.
+
+Built using React, React Router, and Axios, the platform follows a component-based architecture that separates presentation, routing, and data-fetching concerns. The application leverages asynchronous API communication, dynamic route rendering, and reusable UI components to efficiently manage and display large volumes of movie data while maintaining a smooth client-side experience.
+
+Designed with scalability and maintainability in mind, Movie Mania demonstrates modern frontend development practices including modular code organization, API integration, responsive layouts, and route-driven application architecture.
+
+
 
 ## Features
 
